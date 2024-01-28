@@ -1,34 +1,25 @@
-# Project Name
+# CasaFlow
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text eve
+This is a landing page for the CasaFlow project - a personal finance app, developed for Android devices, and currently available on the Play Store.
 
 ### Developers: 
 * [Marcos Vinicius Ferreira](https://github.com/marcosnaofazisso) 
 
-## Goals and Rules:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Goals:
+The main goal of the landing page is to guide customers to the Play Store by clicking on the designated button or simply scanning the QR code displayed on the banner. Additionally, a functionality required by Google's guidelines and the Play Store is the option for users to delete their app data through a user-friendly and easily usable request.
 
 # Demo
-<img src="./demo/boromir.jpg" height="200" width="400">
+<img src="./demo/casaflow-demo.png" height="200" width="400">
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+CasaFlow landing page on web.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="./demo/casaflow-store-demo.png" height="200" width="400">
 
-# Tutorial
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+This is the CasaFlow page published on the Play Store and can be accessed through the link below:
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+[Link para CasaFlow no Play Store](https://play.google.com/store/apps/details?id=com.marcosviniciusferreira.casaflow)
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-    code 
-    code  
-    code
+If you have any questions, suggestions, or encounter any bugs in the app, feel free to contact me, okay?
 
 
 ## Thank you!
