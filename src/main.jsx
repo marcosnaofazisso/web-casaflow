@@ -1,11 +1,8 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom/client";
-import {
-  createBrowserRouter,
-  RouterProvider,
-} from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.css";
-import DeleteAccount from "./DeleteAccount";
+import DeleteAccount from "./delete-account/DeleteAccount";
 import App from "./App";
 
 const router = createBrowserRouter([
